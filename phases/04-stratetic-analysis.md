@@ -89,13 +89,13 @@ In order to weigh these options, you should perform a total cost of building ana
 
 ### Modularizing the development process through budgeting and contracting
 
-Large software projects should be broken down into smaller pieces. Each should be tightly scoped, stand on its own and interface with other components. Each can be procured and built separately. Modular procurement and development:
+Large software projects should be broken down into smaller pieces. Each should be tightly scoped, stand on its own and interface with other components. Each can be procured and built separately.
 
-    * Minimizes the risks associated with the inherent uncertainty that exists at the outset of a project
-    * Reduces vendor lock-in, and puts the client in control if there are quality issues
-    * Aligns with agile development and with DevOps
-    * Reduces the timeline before seeing clear operational outcomes
-
+* Modular procurement and development:
+  * Minimizes the risks associated with the inherent uncertainty that exists at the outset of a project
+  * Reduces vendor lock-in, and puts the client in control if there are quality issues
+  * Aligns with agile development and with DevOps
+  * Reduces the timeline before seeing clear operational outcomes
 * Develop an initial sense of how the project can be broken down into smaller pieces.
 * Consider that individual pieces might use different development strategies (e.g. some OSS and some contracted)
 * In the next step, you will more specifically define and scope these modules.

@@ -98,7 +98,7 @@ IT Product Management Integrated planning guide
 
 CDS Product Evaluation Guide
 
-[https://digital.canada.ca/tools-and-resources/evaluation-framework/](https://digital.canada.ca/tools-and-resources/evaluation-framework/)
+[https://digital.canada.ca/tools-and-resources/evaluation-framework/](https://web.archive.org/web/20211013211805/https%3A//digital.canada.ca/tools-and-resources/evaluation-framework/)
 
 Open North: Open and ethical procurement guide on engaging with the private sector
 

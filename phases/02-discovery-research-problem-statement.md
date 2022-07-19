@@ -87,7 +87,7 @@ CityMart Procurement Institute: Defining needs and setting intention
 
 CityMart Procurement Institute: Evaluation framework for problem ideas
 
-[https://miro.medium.com/max/1400/0*eF6XTu_mo_9hYAL5](https://miro.medium.com/max/1400/0*eF6XTu_mo_9hYAL5)
+[Evaluation framework for problem ideas](https://miro.medium.com/max/1400/0*eF6XTu_mo_9hYAL5)
 
 Discovery Research methods
 

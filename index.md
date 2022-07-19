@@ -1,3 +1,13 @@
+# Process Code for Software Procurement
+
+## Welcome
+
+*This process code introduces a digital-native approach to procurement, while maintaining the integrity of a legitimate, fair, transparent and objective process. It is important because it empowers public sector employees to be in control of how their digital tools are designed, purchased and used.*
+
+You are here because you’ve discovered a challenge or an opportunity in the public sector, and you suspect that software might help.
+…Now what?
+Well, you are in the right place.
+
 ## Introduction
 
 This document is a guide for procuring existing software, building software in-house, or working with a vendor on custom software. It walks through government contracting step-by-step, aligning legitimate public procurement with the cutting edge best practices of software development. It is not an inflexible legal document. Rather, it’s a set of guidelines and best practices, with links to additional resources.
