@@ -1,0 +1,22 @@
+title: Process code for software procurement
+
+remote_theme: publiccodenet/jekyll-theme
+
+include:
+  - "LICENSE.md"
+
+defaults:
+  -
+    scope:
+      path: '/phases/*'
+    values:
+      breadcrumbs:
+        - name: 'Phases'
+          path: '/phases/'
+      show_prev_next: true
+
+  -
+    scope:
+      path: '/'
+    values:
+      breadcrumbs: true
