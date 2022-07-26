@@ -1,3 +1,7 @@
+---
+order: 9
+---
+
 # Assessment phase
 
 The third phase applies only to projects that include an RFP. In this phase, you will publicize and actively promote the RFP, using conventional and unconventional channels to circulate it broadly. The more vendors are aware of it, the better your likelihood of finding a great partner.

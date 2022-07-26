@@ -30,30 +30,30 @@ There will also be a single person who follows the process from beginning to end
 
 ADD IMAGE HERE
 
-## PHASE 1: Orientation: Capacity-building & Research
+## PHASE 1: [Orientation: Capacity-building & Research](phases/orientation-phase.md)
 
-- Step 1: Capacity-building
-- Step 2: Discovery Research
-- Step 3: Market Research
-- Step 4: Strategic Analysis
+- Step 1: [Capacity-building](phases/01-capacity-building.md)
+- Step 2: [Discovery Research](phases/02-discovery-research-problem-statement.md)
+- Step 3: [Market Research](phases/03-market-research.md)
+- Step 4: [Strategic Analysis](phases/04-stratetic-analysis.md)
   - Output: Choice of a Strategy
 
-## PHASE 2: Planning: Documentation & Resourcing
+## PHASE 2: [Planning: Documentation & Resourcing](phases/planning-phase.md)
 
-- Step 5 (A,B,C): RFP Writing
+- Step 5 (A,B,C): [Request for proposal writing](phases/05-RFP-writing.md)
   - Output: RFP is issued
-- Step 5 (D): Project Resourcing
+- Step 5 (D): [Project Resourcing](phases/06-agile-development-planning-resourcing.md)
   - Output: Agile development is planned
 
-## PHASE 3: Assessment: Compliance & Contracting
+## PHASE 3: [Assessment: Compliance & Contracting](phases/assessment-phase.md)
 
-- Step 6 (A,B,C): Vendor interactions
-- Step 7 (A,B,C): Bid Evaluation
-- Step 8 (A,B,C): Contracting
+- Step 6 (A,B,C): [Vendor interactions](phases/07-vendor-interactions.md)
+- Step 7 (A,B,C): [Bid Evaluation](phases/08-bid-evaluation.md)
+- Step 8 (A,B,C): [Contracting](phases/09-contracting.md)
   - Output: Purchase order or software license procurement
 
-## PHASE 4: Implementation: Building & Deploying
+## PHASE 4: [Implementation: Building & Deploying](phases/implementation-phase.md)
 
-- Step 9 (B, C, D): Agile Development & Deployment
-- Step 10 (A, B, C, D): Integration
+- Step 9 (B, C, D): [Agile Development & Deployment](phases/11-agile-development-integration.md)
+- Step 10 (A, B, C, D): [Integration](phases/10-integration.md)
   - Output: All features delivered, software is integrated & staff are trained

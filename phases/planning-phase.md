@@ -1,3 +1,7 @@
+---
+order: 6
+---
+
 # Planning phase
 
 The second phase is about planning your software development process. Depending on the path you’ve chosen, you may be planning to develop software in-house, or you may be articulating a plan and performance criteria in the form of an RFP that you put out into the market to find a vendor.

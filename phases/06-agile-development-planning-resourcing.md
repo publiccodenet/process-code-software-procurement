@@ -1,3 +1,7 @@
+---
+order: 8
+---
+
 # 6. Agile Development Planning and Resourcing
 
 ## Goals

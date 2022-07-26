@@ -1,4 +1,5 @@
 ---
+order: 1
 phase_number: 1
 title: "Phase 1: Orientation"
 ---

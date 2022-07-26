@@ -1,3 +1,7 @@
+---
+order: 7
+---
+
 # 5. RFP Writing
 
 ## Goals

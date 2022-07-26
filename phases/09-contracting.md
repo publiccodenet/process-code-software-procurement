@@ -1,3 +1,7 @@
+---
+order: 12
+---
+
 # 9. Contracting
 
 ## Goals

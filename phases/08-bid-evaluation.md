@@ -1,3 +1,7 @@
+---
+order: 11
+---
+
 # 8. Bid evaluation
 
 ## Goals
