@@ -25,8 +25,10 @@ And as they face increasingly complex issues – challenges like effective COVID
 
 Cities that are using new approaches can learn from each other, adapt what others have done, and create best practices using a shared online document – what we call “process code.” We invite you to test it, revise it, and expand it.
 Welcome to a growing community of cities, states and provinces who believe that software can serve the public better!
-Contribute to this document here.
-Read more about process code here.
+
+You can also [contribute to this document](https://github.com/publiccodenet/process-code-software-procurement-new).
+
+[Read more about process code](https://docs.google.com/document/d/1Z99h2oLcKuHVmXVfGxfakREOvu5u33sdhePDYGoK1SQ/edit).
 
 ## Who should use this process code
 
