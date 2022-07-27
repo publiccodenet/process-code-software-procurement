@@ -28,7 +28,7 @@ Several people from different departments should be involved in a software desig
 
 There will also be a single person who follows the process from beginning to end: the “product owner.” Product owners are expert generalists who deeply understand end users and their needs, work across different departments, ask good questions, and carry the project from start to finish. The product owner should read this whole guide, and be comfortable with each step of the process, while specialists can read the introduction and basic principles, then focus on the particular step that is most relevant to them.
 
-ADD IMAGE HERE
+![Diagram of different paths through this material based on procurement process chosen](/process-code.png)
 
 ## PHASE 1: [Orientation: Capacity-building & Research](phases/orientation-phase.md)
 
