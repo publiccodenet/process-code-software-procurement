@@ -1,4 +1,4 @@
-# Process Code for Software Procurement
+# Process code for Software Procurement
 
 ## Welcome
 
@@ -14,15 +14,15 @@ This document is a guide for procuring existing software, building software in-h
 
 Because every jurisdiction and every software process is unique, no guide can be one-size-fits-all. That’s why we are hosting this online, in a format that can be revised and adapted over time – by you, the expert on the ground. It’s a new way of creating and sharing best practices across the public sector entities – we call it a “process code.”
 
-## What is Process Code
+## What is process code
 
 Every day, civil servants around the world carry out public processes. And as they face increasingly complex issues – challenges like effective COVID response, public WiFi installation, or software procurement – they need new approaches to those existing public processes.
 
 Cities that are using new approaches can learn from each other, adapt what others have done, and create best practices using a shared online document – what we call “process code.” We invite you to test it, revise it, and expand it. Welcome to a growing community of cities, states and provinces who believe that software can serve the public better!
 Contribute to this document here.
-Read more about Process Code here.
+Read more about process code here.
 
-## Who should use this Process Code
+## Who should use this process code
 
 Several people from different departments should be involved in a software design and procurement process – from legal counsel to IT to the end users themselves – each bringing their own expertise and perspective. This guide is intended for all of them, but each will have a more prominent role in certain phases.
 
