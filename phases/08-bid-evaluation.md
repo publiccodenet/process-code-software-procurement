@@ -11,6 +11,7 @@ order: 11
 > * Contracting custom software
 >
 > If you're building software in-house, skip ahead to the [Implementation phase](/implementation-phase.md).
+
 ## Goals
 
 * To conduct an objective, fair, quantitative and qualitative assessment of bids.
