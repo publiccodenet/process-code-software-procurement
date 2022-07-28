@@ -30,15 +30,16 @@ There will also be a single person who follows the process from beginning to end
 
 ## How to read this process code
 
-This process code covers 4 different approaches to procuring software. Which steps you should read depends on your approach:
+This process code covers 4 different approaches to procuring software. Which steps you should read depends on your approach.
 
-* Buying off the shelf software: steps 1, 2, 3, 4, 5, 7, 8, 
-* Custom instance of existing open source software: steps 1, 2, 3, 4,
-* Buying custom software: steps 1, 2, 3, 4
-* Building software in-house: steps 1, 2, 3,
+All approaches should read steps 1-4 (Orientation phase).
 
+After orientation, read these steps based on your approach:
 
-
+* Buying off the shelf software: steps 5, 7, 8, 
+* Custom instance of existing open source software: steps ,
+* Buying custom software: steps 
+* Building software in-house: steps 
 
 ![Diagram of different paths through this material based on procurement process chosen](/process-code.png)
 
@@ -48,26 +49,28 @@ This process code covers 4 different approaches to procuring software. Which ste
 1. [Capacity-building](phases/01-capacity-building.md)
 2. [Discovery Research](phases/02-discovery-research-problem-statement.md)
 3. [Market Research](phases/03-market-research.md)
-4. [Strategic Analysis](phases/04-stratetic-analysis.md)
+4. [Strategic Analysis](phases/04-strategic-analysis.md)
 
 Output: Choice of a strategy
 
 ## [Planning phase: Documentation & Resourcing](phases/planning-phase.md)
 
-5. (A,B,C): [Request for proposal writing](phases/05-RFP-writing.md)
-  - Output: RFP is issued
-- Step 5 (D): [Project Resourcing](phases/06-agile-development-planning-resourcing.md)
-  - Output: Agile development is planned
+5. [Request for proposal writing](phases/05-RFP-writing.md)
+6. [Project resourcing](phases/06-agile-development-planning-resourcing.md)
 
-## [Assessment phase: Compliance & Contracting](phases/assessment-phase.md)
+Output: RFP is issued or agile development is planned
 
-- Step 6 (A,B,C): [Vendor interactions](phases/07-vendor-interactions.md)
-- Step 7 (A,B,C): [Bid Evaluation](phases/08-bid-evaluation.md)
-- Step 8 (A,B,C): [Contracting](phases/09-contracting.md)
-  - Output: Purchase order or software license procurement
+## [Assessment phase: compliance and contracting](phases/assessment-phase.md)
+
+7. [Vendor interactions](phases/07-vendor-interactions.md)
+8. [Bid Evaluation](phases/08-bid-evaluation.md)
+9. [Contracting](phases/09-contracting.md)
+
+Output: Purchase order or software license procurement
 
 ## [Implementation phase: Building & Deploying](phases/implementation-phase.md)
 
-- Step 9 (B, C, D): [Agile Development & Deployment](phases/11-agile-development-integration.md)
-- Step 10 (A, B, C, D): [Integration](phases/10-integration.md)
-  - Output: All features delivered, software is integrated & staff are trained
+10. [Agile Development & Deployment](phases/10-agile-development-integration.md)
+11. [Integration](phases/11-integration.md)
+
+Output: All features delivered, software is integrated & staff are trained
