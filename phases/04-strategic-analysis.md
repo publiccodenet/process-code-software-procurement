@@ -4,6 +4,7 @@ order: 5
 
 # 4. Strategic analysis
 
+> Read this regardless of your procurement approach.
 ## Goals
 
 1. Evaluating different approaches (see below) based on cost and outcome.

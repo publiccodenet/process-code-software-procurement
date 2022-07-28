@@ -4,6 +4,7 @@ order: 15
 
 # 11. Integration
 
+> Read this regardless of your procurement approach.w
 ## Goals
 
 * To support the vendor’s agile development process.

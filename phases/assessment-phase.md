@@ -4,6 +4,14 @@ order: 9
 
 # Assessment phase
 
+> This phase is relevant to:
+>
+> * Buying off the shelf software
+> * Contracting a custom instance of existing open source software
+> * Contracting custom software
+>
+> If you're building software in-house, skip ahead to the [Implementation phase](/implementation-phase.md).
+
 The third phase applies only to projects that include an RFP. In this phase, you will publicize and actively promote the RFP, using conventional and unconventional channels to circulate it broadly. The more vendors are aware of it, the better your likelihood of finding a great partner.
 
 As vendors become interested in responding to the RFP, you have an opportunity to engage with them. You can answer questions and provide context for the project by describing the broader goals of the department or the values of the city council. Contrary to what many public officials assume, interacting with vendors is a good thing – as long as it is fair, unbiased and non-preferential. Any questions you answer or context you provide should be made publicly available, so that all potential bidders have the same information.

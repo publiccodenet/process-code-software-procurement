@@ -6,6 +6,8 @@ title: "Phase 1: Orientation"
 
 # Orientation phase
 
+> Read this regardless of your procurement approach.
+
 The first phase is about creating a solid foundation for buying and using digital products.
 Capacity-building starts long before there is any specific software project.
 Product owners should spend time meeting staff members from various departments, hosting Q&A workshops, debunking myths about government procurement, establishing common language (“agile” “DevOps” “exclusionary criteria”), and sharing the basics of agile software development.

@@ -55,7 +55,7 @@ After orientation, read these steps based on your procurement approach:
 
 4\. [Strategic Analysis](phases/04-strategic-analysis.md)
 
-Output: Choice of a strategy
+* Output: Choice of a strategy
 
 ### [Planning phase: documentation and resourcing](phases/planning-phase.md)
 
@@ -63,7 +63,7 @@ Output: Choice of a strategy
 
 6\. [Project resourcing](phases/06-agile-development-planning-resourcing.md)
 
-Output: RFP is issued or agile development is planned
+* Output: RFP is issued or agile development is planned
 
 ### [Assessment phase: compliance and contracting](phases/assessment-phase.md)
 
@@ -73,7 +73,7 @@ Output: RFP is issued or agile development is planned
 
 9\. [Contracting](phases/09-contracting.md)
 
-Output: Purchase order or software license procurement
+* Output: Purchase order or software license procurement
 
 ### [Implementation phase: building and deploying](phases/implementation-phase.md)
 
@@ -81,4 +81,4 @@ Output: Purchase order or software license procurement
 
 11\. [Integration](phases/11-integration.md)
 
-Output: All features delivered, software is integrated & staff are trained
+* Output: All features delivered, software is integrated & staff are trained

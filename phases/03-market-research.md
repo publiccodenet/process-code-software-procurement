@@ -4,6 +4,7 @@ order: 4
 
 # 3. Market research
 
+> Read this regardless of your procurement approach.
 ## Goals
 
 1. To become familiar with the problem and the landscape of potential solutions.

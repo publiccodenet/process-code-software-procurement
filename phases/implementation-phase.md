@@ -4,6 +4,8 @@ order: 13
 
 # Implementation phase
 
+> Read this regardless of your procurement approach.
+
 The fourth and final phase is about implementation. Whether you are building software in-house or collaborating with an external vendor, this is when agile development happens.
 
 You will go through an iterative cadence of planning, building, deploying and testing software – what are often called “sprints.” Each sprint lasts 2-4 weeks, and it is focused on a single module that addresses a particular user journey. The sprint should be scoped, budgeted, and contracted collaboratively between software engineers, product owners, and any associated legal staff. At the end of the sprint, the module will be fully _developed_ and _operational_(often called a DevOps approach). That means end users can start testing it and giving feedback, and it means you’re in control of the next steps. You can decide whether or not the initial software idea was the right one, whether or not the module meets your expectations, and whether or not to continue with the vendor.

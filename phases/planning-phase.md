@@ -4,6 +4,8 @@ order: 6
 
 # Planning phase
 
+> Read this regardless of your procurement approach.
+
 The second phase is about planning your software development process. Depending on the path you’ve chosen, you may be planning to develop software in-house, or you may be articulating a plan and performance criteria in the form of an RFP that you put out into the market to find a vendor.
 
 Writing an RFP is an exciting opportunity to shape a software tool that will help you and your colleagues do your job better. It is a formal document, with legal and budgetary heft, but also a design document. It is your opportunity to describe the ideal partner and set the terms of a productive working relationship. And it is a way of reducing risk and liability, while ensuring a high-quality end product. The RFP will include criteria for evaluating vendors – mandatory (“eliminatory” criteria) and non-mandatory (“optional” criteria). Optional criteria are a good way to include qualitative goals or values.

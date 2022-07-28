@@ -4,6 +4,7 @@ order: 3
 
 # 2. Discovery research and problem statement
 
+> Read this regardless of your procurement approach.
 ## Goals
 
 1. To bring key stakeholders into the procurement process and draw on their expertise.

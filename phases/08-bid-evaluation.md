@@ -4,6 +4,13 @@ order: 11
 
 # 8. Bid evaluation
 
+> This step is relevant to:
+>
+> * Buying off the shelf software
+> * Contracting a custom instance of existing open source software
+> * Contracting custom software
+>
+> If you're building software in-house, skip ahead to the [Implementation phase](/implementation-phase.md).
 ## Goals
 
 * To conduct an objective, fair, quantitative and qualitative assessment of bids.
