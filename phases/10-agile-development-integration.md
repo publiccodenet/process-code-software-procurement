@@ -2,7 +2,7 @@
 order: 14
 ---
 
-# 10. Agile Development and Integration
+# 10. Agile Development and integration
 
 ## Goals
 

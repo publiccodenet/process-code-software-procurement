@@ -1,6 +1,5 @@
 ---
 order: 4
-title: Market Research
 ---
 
 # 3. Market research

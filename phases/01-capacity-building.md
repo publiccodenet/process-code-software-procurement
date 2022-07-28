@@ -1,6 +1,5 @@
 ---
 order: 2
-title: Capacity building
 ---
 
 # 1. Capacity building

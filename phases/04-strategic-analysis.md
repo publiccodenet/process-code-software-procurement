@@ -1,9 +1,8 @@
 ---
 order: 5
-title: Strategic Analysis
 ---
 
-# 4. Strategic Analysis
+# 4. Strategic analysis
 
 ## Goals
 

@@ -1,6 +1,5 @@
 ---
 order: 3
-title: Discovery Research & Problem Statement
 ---
 
 # 2. Discovery research and problem statement

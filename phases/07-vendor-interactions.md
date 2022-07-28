@@ -2,7 +2,7 @@
 order: 10
 ---
 
-# 7. Vendor Interactions
+# 7. Vendor interactions
 
 ## Goals
 
