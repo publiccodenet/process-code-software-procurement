@@ -32,18 +32,19 @@ There will also be a single person who follows the process from beginning to end
 
 This process code covers 4 different approaches to procuring software. Which steps you should read depends on your approach.
 
-Everyone should read steps 1-4 (Orientation phase).
+Everyone should read steps 1-4 (Orientation phase) and step 11 (Implementation phase).
 
 After orientation, read these steps based on your procurement approach:
 
-* Buying off the shelf software: steps 5,
-* Contracting a custom instance of existing open source software: steps 5,
-* Contracting custom software: steps 5, 
-* Building software in-house: steps 6, 
+* Buying off the shelf software: steps 5, 7, 8, 9
+* Contracting a custom instance of existing open source software: steps 5, 7, 8, 9, 10
+* Contracting custom software: steps 5, 7, 8, 9, 10
+* Building software in-house: steps 6, 10
 
 ![Diagram of different paths through this material based on procurement process chosen](/process-code.png)
 
 ## Contents
+
 ### [Orientation phase: Capacity-building & Research](phases/orientation-phase.md)
 
 1\. [Capacity-building](phases/01-capacity-building.md)
