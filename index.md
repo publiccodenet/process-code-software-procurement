@@ -28,31 +28,45 @@ Several people from different departments should be involved in a software desig
 
 There will also be a single person who follows the process from beginning to end: the “product owner.” Product owners are expert generalists who deeply understand end users and their needs, work across different departments, ask good questions, and carry the project from start to finish. The product owner should read this whole guide, and be comfortable with each step of the process, while specialists can read the introduction and basic principles, then focus on the particular step that is most relevant to them.
 
+## How to read this process code
+
+This process code covers 4 different approaches to procuring software. Which steps you should read depends on your approach:
+
+* Buying off the shelf software: steps 1, 2, 3, 4, 5, 7, 8, 
+* Custom instance of existing open source software: steps 1, 2, 3, 4,
+* Buying custom software: steps 1, 2, 3, 4
+* Building software in-house: steps 1, 2, 3,
+
+
+
+
 ![Diagram of different paths through this material based on procurement process chosen](/process-code.png)
 
-## PHASE 1: [Orientation: Capacity-building & Research](phases/orientation-phase.md)
+## Contents
+### [Orientation phase: Capacity-building & Research](phases/orientation-phase.md)
 
-- Step 1: [Capacity-building](phases/01-capacity-building.md)
-- Step 2: [Discovery Research](phases/02-discovery-research-problem-statement.md)
-- Step 3: [Market Research](phases/03-market-research.md)
-- Step 4: [Strategic Analysis](phases/04-stratetic-analysis.md)
-  - Output: Choice of a Strategy
+1. [Capacity-building](phases/01-capacity-building.md)
+2. [Discovery Research](phases/02-discovery-research-problem-statement.md)
+3. [Market Research](phases/03-market-research.md)
+4. [Strategic Analysis](phases/04-stratetic-analysis.md)
 
-## PHASE 2: [Planning: Documentation & Resourcing](phases/planning-phase.md)
+Output: Choice of a strategy
 
-- Step 5 (A,B,C): [Request for proposal writing](phases/05-RFP-writing.md)
+## [Planning phase: Documentation & Resourcing](phases/planning-phase.md)
+
+5. (A,B,C): [Request for proposal writing](phases/05-RFP-writing.md)
   - Output: RFP is issued
 - Step 5 (D): [Project Resourcing](phases/06-agile-development-planning-resourcing.md)
   - Output: Agile development is planned
 
-## PHASE 3: [Assessment: Compliance & Contracting](phases/assessment-phase.md)
+## [Assessment phase: Compliance & Contracting](phases/assessment-phase.md)
 
 - Step 6 (A,B,C): [Vendor interactions](phases/07-vendor-interactions.md)
 - Step 7 (A,B,C): [Bid Evaluation](phases/08-bid-evaluation.md)
 - Step 8 (A,B,C): [Contracting](phases/09-contracting.md)
   - Output: Purchase order or software license procurement
 
-## PHASE 4: [Implementation: Building & Deploying](phases/implementation-phase.md)
+## [Implementation phase: Building & Deploying](phases/implementation-phase.md)
 
 - Step 9 (B, C, D): [Agile Development & Deployment](phases/11-agile-development-integration.md)
 - Step 10 (A, B, C, D): [Integration](phases/10-integration.md)
