@@ -1,6 +1,5 @@
 ---
 order: 2
-phase_number: 1.a
 title: Capacity building
 ---
 

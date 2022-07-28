@@ -1,6 +1,5 @@
 ---
 order: 4
-phase_number: 1.c
 title: Market Research
 ---
 

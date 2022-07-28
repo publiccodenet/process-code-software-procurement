@@ -1,6 +1,5 @@
 ---
 order: 5
-phase_number: 1.d
 title: Strategic Analysis
 ---
 

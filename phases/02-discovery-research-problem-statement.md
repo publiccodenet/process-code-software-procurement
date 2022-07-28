@@ -1,6 +1,5 @@
 ---
 order: 3
-phase_number: 1.b
 title: Discovery Research & Problem Statement
 ---
 
