@@ -4,6 +4,14 @@ order: 10
 
 # 7. Vendor interactions
 
+> This step is relevant to:
+>
+> * Buying off the shelf software
+> * Contracting a custom instance of existing open source software
+> * Contracting custom software
+>
+> If you're building software in-house, skip ahead to the [Implementation phase](/implementation-phase.md).
+
 ## Goals
 
 * To answer all vendor questions.
