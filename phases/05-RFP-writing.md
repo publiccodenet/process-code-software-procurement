@@ -12,7 +12,6 @@ order: 7
 > If you are building your own OSS, skip to:
 > * 7. Buying custom software
 
-
 ## Goals
 
 * To turn the problem statement into objective and fair criteria and incorporate insights from market research and benchmarking.
