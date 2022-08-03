@@ -23,11 +23,13 @@ bundle exec jekyll build
 # * github.com/foo/edit/ : may reference yet-to-exist pages
 # * docs.github.com/en : blocked by github DDoS protection
 # * plausible.io/js/plausible.js : does not serve to scripts
+# * belastingdienst.nl : regularly cries wolf with request timed out
 URL_IGNORE_REGEXES="\
 /github\.com\/.*\/edit\//\
 ,/docs\.github\.com\/en\//\
 ,/plausible\.io\/js\/plausible\.js/\
 ,/code\.gov\/agency-compliance\/compliance\/procurement/\
+,/belastingdienst\.nl\/wps\/wcm\/connect\/bldcontenten\/belastingdienst\//
 "
 
 # Check for broken links and missing alt tags:
