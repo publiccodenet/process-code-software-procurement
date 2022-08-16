@@ -41,7 +41,7 @@ After orientation, read these steps based on your procurement approach:
 * Contracting custom software: steps 5, 7, 8, 9, 10
 * Building software in-house: steps 6, 10
 
-![Diagram of different paths through this material based on procurement process chosen](/process-code.png)
+![Diagram of different paths through this material based on procurement process chosen](/images/main-diagram.svg)
 
 ## Contents
 
