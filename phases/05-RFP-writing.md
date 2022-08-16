@@ -5,12 +5,14 @@ order: 7
 # 5. RFP Writing
 
 > This step is relevant for organizations:
+>
 > * buying off the shelf
 > * Buying off the shelf software
-> * Custom instance of existing open source software
+> * building a custom instance of existing open source software
 >
 > If you are building your own OSS, skip to:
-> * 7. Buying custom software
+>
+> * [7. Buying custom software](/phases/07-vendor-interactions.md)
 
 ## Goals
 

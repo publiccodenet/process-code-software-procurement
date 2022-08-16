@@ -4,6 +4,8 @@ order: 2
 
 # 1. Capacity building
 
+> Read this regardless of your procurement approach.
+
 ## Goals
 
 1. To align various departments and facilitate future collaboration.
