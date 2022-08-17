@@ -6,13 +6,15 @@ order: 7
 
 > This step is relevant for organizations:
 >
-> * buying off the shelf
-> * Buying off the shelf software
-> * building a custom instance of existing open source software
+> * buying off the shelf software
+> * hiring a vendor to customize existing open source software
+> * buying custom software
 >
-> If you are building your own OSS, skip to:
+> If you are building your own software, read:
 >
-> * [7. Buying custom software](/phases/07-vendor-interactions.md)
+> * [6. Agile development planning and resourcing](06-agile-development-planning-resourcing.md)
+
+![Diagram showing who should read step 5](/../images/planning-2.svg)
 
 ## Goals
 

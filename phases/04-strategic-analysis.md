@@ -6,6 +6,8 @@ order: 5
 
 > Read this regardless of your procurement approach.
 
+![Diagram showing who should read step 4](/../images/orientation-4.svg)
+
 ## Goals
 
 1. Evaluating different approaches (see below) based on cost and outcome.

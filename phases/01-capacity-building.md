@@ -6,6 +6,8 @@ order: 2
 
 > Read this regardless of your procurement approach.
 
+![Diagram showing who should read step 1](/../images/orientation-1.svg)
+
 ## Goals
 
 1. To align various departments and facilitate future collaboration.

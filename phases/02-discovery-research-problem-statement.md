@@ -6,6 +6,8 @@ order: 3
 
 > Read this regardless of your procurement approach.
 
+![Diagram showing who should read step 2](/../images/orientation-2.svg)
+
 ## Goals
 
 1. To bring key stakeholders into the procurement process and draw on their expertise.

@@ -24,27 +24,13 @@ Some elements will be standard and non-negotiable, but a surprising amount of co
 
 This phase concludes with a contract that the vendor, legal staff, and project team agree on. With that agreement in hand, you are ready to start collaborating on software development.
 
-![Diagram showing who should read step 7](/../images/assessment-1.svg)
-
-![Diagram showing who should read this step 8](/../images/assessment-2.svg)
-
-![Diagram showing who should read step 9](/../images/assessment-3.svg)
-
-![Diagram showing who should read step 11](/../images/implementation-1.svg)
-![Diagram showing who should read step 10](/../images/implementation-2.svg)
 ![Diagram showing who should read step 10.5](/../images/implementation-3.svg)
 ![Diagram showing who should read step 11.5](/../images/implementation-4.svg)
 
-![Diagram showing who should read step 1](/../images/orientation-1.svg)
-![Diagram showing who should read step 2](/../images/orientation-2.svg)
-![Diagram showing who should read step 3](/../images/orientation-3.svg)
-![Diagram showing who should read step 4](/../images/orientation-4.svg)
+![Diagram showing who should read step 4.5 buy](/../images/planning-1.svg)
 
-![Diagram showing who should read step ](/../images/planning-1.svg)
-![Diagram showing who should read step ](/../images/planning-2.svg)
-![Diagram showing who should read step ](/../images/planning-3.svg)
-![Diagram showing who should read step ](/../images/planning-4.svg)
+![Diagram showing who should read step 4.5 in house](/../images/planning-3.svg)
+![Diagram showing who should read step 6.5](/../images/planning-4.svg)
 
-![Diagram showing who should read step](/../
 
 

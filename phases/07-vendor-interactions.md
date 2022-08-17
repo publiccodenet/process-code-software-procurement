@@ -4,13 +4,17 @@ order: 10
 
 # 7. Vendor interactions
 
-> This step is relevant to:
+> This step is relevant for organizations:
 >
-> * Buying off the shelf software
-> * Contracting a custom instance of existing open source software
-> * Contracting custom software
+> * buying off the shelf software
+> * hiring a vendor to customize existing open source software
+> * buying custom software
 >
-> If you're building software in-house, skip ahead to the [Implementation phase](/implementation-phase.md).
+> If you are building your own software, read:
+>
+> * [6. Agile development planning and resourcing](06-agile-development-planning-resourcing.md)
+
+![Diagram showing who should read step 7](/../images/assessment-1.svg)
 
 ## Goals
 
