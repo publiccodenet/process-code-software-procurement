@@ -23,3 +23,9 @@ The committee will choose one bid as the winner, but make sure to follow up prop
 Some elements will be standard and non-negotiable, but a surprising amount of contract templates can be changed. Start from the assumption that anything can be changed, and read through it carefully, paying attention to if the contract aligns with your goals for the project, and where it might impair the agile development process.
 
 This phase concludes with a contract that the vendor, legal staff, and project team agree on. With that agreement in hand, you are ready to start collaborating on software development.
+
+![assessment 1 svg](/images/images/assessment-1.svg)
+
+![assessment 2 svg](/images/assessment-2.svg)
+
+![assessment 3 svg](/images/assessment-3.svg)
