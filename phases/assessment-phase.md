@@ -24,8 +24,8 @@ Some elements will be standard and non-negotiable, but a surprising amount of co
 
 This phase concludes with a contract that the vendor, legal staff, and project team agree on. With that agreement in hand, you are ready to start collaborating on software development.
 
-![assessment 1 svg](/images/images/assessment-1.svg)
+![assessment 1 svg](/../images/images/assessment-1.svg)
 
-![assessment 2 svg](/images/assessment-2.svg)
+![assessment 2 svg](/../images/assessment-2.svg)
 
-![assessment 3 svg](/images/assessment-3.svg)
+![assessment 3 svg](/../images/assessment-3.svg)
