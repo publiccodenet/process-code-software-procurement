@@ -6,7 +6,8 @@ order: 14
 
 > Read this if you are building your own software or hired a vendor to customize existing open source software.
 
-![Diagram showing who should read step 10](/../images/implementation-2.svg)
+![Diagram showing who should read step 10](/../images/implementation-3.svg)
+
 
 ## Goals
 

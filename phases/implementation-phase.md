@@ -15,3 +15,9 @@ You will continue running through sprints and creating individual modules until 
 Throughout this process, you also have the crucial responsibility of ensuring that the software is set up for longevity. If you are working with a vendor, make sure that the city’s technical staff collaborate on writing thorough documentation. The more you can maintain, troubleshoot and update the software in-house, the better. It is equally important to document from the end user perspective – noting best practices and how the tool fits within the job description and daily operations of municipal service delivery. A common risk is staff turnover, and clear documentation is key to making sure that know-how and expertise doesn’t disappear with individuals.
 
 Your plan should also include regular performance audits, staff training and onboarding protocols, resource allocation for software maintenance, and – if the software is open source – a plan for sharing with other jurisdictions. If you have followed this process code well, there is no reason that you wouldn’t have an excellent product that fills a real need in the public sector. You should be proud of it, and others should find it not only useful, but also inspiring!
+
+> If you are building your own software or hired a vendor to customize existing open source software, read step 10.
+
+![Diagram showing who should read step 10](/../images/implementation-2.svg)
+
+> If 
