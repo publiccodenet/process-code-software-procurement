@@ -4,9 +4,9 @@ order: 3
 
 # 2. Discovery research and problem statement
 
-> Read this regardless of your procurement approach.
-
 ![Diagram showing who should read step 2](/../images/orientation-2.svg)
+
+> Read this regardless of your procurement approach.
 
 ## Goals
 

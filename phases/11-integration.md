@@ -4,9 +4,9 @@ order: 15
 
 # 11. Integration
 
-> Read this regardless of your procurement approach.
-
 ![Diagram showing who should read step 11](/../images/implementation-1.svg)
+
+> Read this regardless of your procurement approach.
 
 ## Goals
 

@@ -4,9 +4,9 @@ order: 5
 
 # 4. Strategic analysis
 
-> Read this regardless of your procurement approach.
-
 ![Diagram showing who should read step 4](/../images/orientation-4.svg)
+
+> Read this regardless of your procurement approach.
 
 ## Goals
 

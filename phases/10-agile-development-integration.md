@@ -4,10 +4,9 @@ order: 14
 
 # 10. Agile development and integration
 
-> Read this if you are building your own software or hired a vendor to customize existing open source software.
-
 ![Diagram showing who should read step 10](/../images/implementation-3.svg)
 
+> Read this if you are building your own software or hired a vendor to customize existing open source software.
 
 ## Goals
 

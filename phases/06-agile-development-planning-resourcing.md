@@ -4,6 +4,10 @@ order: 8
 
 # 6. Agile development planning and resourcing
 
+> Read this if you are building your own software.
+
+![Diagram showing who should read step 6](/../images/planning-4.svg)
+
 ## Goals
 
 * To turn the problem statement into objective and fair outcomes and evaluation criteria, incorporating insights from market research and benchmarking exercises.

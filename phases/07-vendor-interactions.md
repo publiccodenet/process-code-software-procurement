@@ -4,6 +4,8 @@ order: 10
 
 # 7. Vendor interactions
 
+![Diagram showing who should read step 7](/../images/assessment-1.svg)
+
 > This step is relevant for organizations:
 >
 > * buying off the shelf software
@@ -13,8 +15,6 @@ order: 10
 > If you are building your own software, read:
 >
 > * [6. Agile development planning and resourcing](06-agile-development-planning-resourcing.md)
-
-![Diagram showing who should read step 7](/../images/assessment-1.svg)
 
 ## Goals
 

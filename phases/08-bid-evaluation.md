@@ -4,6 +4,8 @@ order: 11
 
 # 8. Bid evaluation
 
+![Diagram showing who should read this step 8](/../images/assessment-2.svg)
+
 > This step is relevant for organizations:
 >
 > * buying off the shelf software
@@ -13,8 +15,6 @@ order: 11
 > If you are building your own software, read:
 >
 > * [6. Agile development planning and resourcing](06-agile-development-planning-resourcing.md)
-
-![Diagram showing who should read this step 8](/../images/assessment-2.svg)
 
 ## Goals
 

@@ -4,6 +4,8 @@ order: 12
 
 # 9. Contracting
 
+![Diagram showing who should read step 9](/../images/assessment-3.svg)
+
 > This step is relevant for organizations:
 >
 > * buying off the shelf software
@@ -13,8 +15,6 @@ order: 12
 > If you are building your own software, read:
 >
 > * [6. Agile development planning and resourcing](06-agile-development-planning-resourcing.md)
-
-![Diagram showing who should read step 9](/../images/assessment-3.svg)
 
 ## Goals
 

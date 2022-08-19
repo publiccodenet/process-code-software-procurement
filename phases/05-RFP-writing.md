@@ -4,6 +4,8 @@ order: 7
 
 # 5. RFP Writing
 
+![Diagram showing who should read step 5](/../images/planning-2.svg)
+
 > This step is relevant for organizations:
 >
 > * buying off the shelf software
@@ -13,8 +15,6 @@ order: 7
 > If you are building your own software, read:
 >
 > * [6. Agile development planning and resourcing](06-agile-development-planning-resourcing.md)
-
-![Diagram showing who should read step 5](/../images/planning-2.svg)
 
 ## Goals
 

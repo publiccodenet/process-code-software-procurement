@@ -4,9 +4,9 @@ order: 4
 
 # 3. Market research
 
-> Read this regardless of your procurement approach.
-
 ![Diagram showing who should read step 3](/../images/orientation-3.svg)
+
+> Read this regardless of your procurement approach.
 
 ## Goals
 

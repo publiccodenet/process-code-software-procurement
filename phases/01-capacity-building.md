@@ -4,9 +4,9 @@ order: 2
 
 # 1. Capacity building
 
-> Read this regardless of your procurement approach.
-
 ![Diagram showing who should read step 1](/../images/orientation-1.svg)
+
+> Read this regardless of your procurement approach.
 
 ## Goals
 
