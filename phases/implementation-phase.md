@@ -20,4 +20,4 @@ Your plan should also include regular performance audits, staff training and onb
 
 ![Diagram showing who should read step 10](/../images/implementation-2.svg)
 
-> If 
+> Read [step 11: Integration](/11-integration.md) if you bought off the shelf software.
