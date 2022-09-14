@@ -1,8 +1,12 @@
 ---
 order: 15
+phase: implementation
+title: Integration
 ---
 
-# 11. Integration
+{% include nav.html %}
+
+# 11. {{ page.title }}
 
 ![Diagram showing who should read step 11](/../images/implementation-1.svg)
 

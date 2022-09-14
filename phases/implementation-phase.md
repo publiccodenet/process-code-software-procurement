@@ -1,8 +1,12 @@
 ---
 order: 13
+phase: implementation
+title: Implementation phase
 ---
 
-# Implementation phase
+{% include nav.html %}
+
+# {{ page.title }}
 
 > Read this regardless of your procurement approach.
 

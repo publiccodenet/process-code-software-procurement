@@ -1,8 +1,12 @@
 ---
 order: 10
+phase: assessment
+title: Vendor interactions
 ---
 
-# 7. Vendor interactions
+{% include nav.html %}
+
+# 7. {{ page.title }}
 
 ![Diagram showing who should read step 7](/../images/assessment-1.svg)
 

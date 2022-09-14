@@ -1,8 +1,12 @@
 ---
 order: 8
+phase: planning
+title: Agile development planning and resourcing
 ---
 
-# 6. Agile development planning and resourcing
+{% include nav.html %}
+
+# 6. {{ page.title }}
 
 > Read this if you are building your own software.
 

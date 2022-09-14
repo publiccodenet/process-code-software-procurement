@@ -1,8 +1,12 @@
 ---
 order: 12
+phase: assessment
+title: Contracting
 ---
 
-# 9. Contracting
+{% include nav.html %}
+
+# 9. {{ page.title }}
 
 ![Diagram showing who should read step 9](/../images/assessment-3.svg)
 

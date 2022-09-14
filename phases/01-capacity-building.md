@@ -1,8 +1,12 @@
 ---
 order: 2
+phase: orientation
+title: Capacity building
 ---
 
-# 1. Capacity building
+{% include nav.html %}
+
+# 1. {{ page.title }}
 
 ![Diagram showing who should read step 1](/../images/orientation-1.svg)
 

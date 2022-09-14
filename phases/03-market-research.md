@@ -1,8 +1,12 @@
 ---
 order: 4
+phase: orientation
+title: Market research
 ---
 
-# 3. Market research
+{% include nav.html %}
+
+# 3. {{ page.title }}
 
 ![Diagram showing who should read step 3](/../images/orientation-3.svg)
 

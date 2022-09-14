@@ -1,8 +1,12 @@
 ---
 order: 3
+phase: orientation
+title: Discovery research and problem statement
 ---
 
-# 2. Discovery research and problem statement
+{% include nav.html %}
+
+# 2. {{ page.title }}
 
 ![Diagram showing who should read step 2](/../images/orientation-2.svg)
 
