@@ -1,8 +1,12 @@
 ---
 order: 1
+phase: orientation
+title: Orientation phase
 ---
 
-# Orientation phase
+{% include nav.html %}
+
+# {{ page.title }}
 
 > Read this regardless of your procurement approach.
 

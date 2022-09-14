@@ -1,8 +1,12 @@
 ---
 order: 11
+phase: assessment
+title: Bid evaluation
 ---
 
-# 8. Bid evaluation
+{% include nav.html %}
+
+# 8. {{ page.title }}
 
 ![Diagram showing who should read this step 8](/../images/assessment-2.svg)
 

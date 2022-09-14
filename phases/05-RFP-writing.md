@@ -1,8 +1,12 @@
 ---
 order: 7
+phase: planning
+title: RFP Writing
 ---
 
-# 5. RFP Writing
+{% include nav.html %}
+
+# 5. {{ page.title }}
 
 ![Diagram showing who should read step 5](/../images/planning-2.svg)
 

@@ -1,8 +1,12 @@
 ---
 order: 14
+phase: implementation
+title: Agile development and integration
 ---
 
-# 10. Agile development and integration
+{% include nav.html %}
+
+# 10. {{ page.title }}
 
 ![Diagram showing who should read step 10](/../images/implementation-3.svg)
 

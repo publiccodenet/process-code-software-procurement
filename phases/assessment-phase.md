@@ -1,8 +1,12 @@
 ---
 order: 9
+phase: assessment
+title: Assessment phase
 ---
 
-# Assessment phase
+{% include nav.html %}
+
+# {{ page.title }}
 
 > This phase is relevant to:
 >

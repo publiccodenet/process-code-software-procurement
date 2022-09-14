@@ -5,6 +5,8 @@ remote_theme: publiccodenet/jekyll-theme
 include:
   - "LICENSE.md"
 
+toc: true
+
 defaults:
   -
     scope:

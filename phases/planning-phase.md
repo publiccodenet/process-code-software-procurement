@@ -1,8 +1,12 @@
 ---
 order: 6
+phase: planning
+title: Planning phase
 ---
 
-# Planning phase
+{% include nav.html %}
+
+# {{ page.title }}
 
 > Read this regardless of your procurement approach.
 

@@ -1,8 +1,12 @@
 ---
 order: 5
+phase: orientation
+title: Strategic analysis
 ---
 
-# 4. Strategic analysis
+{% include nav.html %}
+
+# 4. {{ page.title }}
 
 ![Diagram showing who should read step 4](/../images/orientation-4.svg)
 
