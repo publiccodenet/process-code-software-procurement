@@ -10,7 +10,7 @@ title: Bid evaluation
 
 ![Diagram showing who should read this step 8](/../images/assessment-2.svg)
 
-> This step is relevant for organizations:
+> This step is for organizations:
 >
 > * buying off the shelf software
 > * hiring a vendor to customize existing open source software

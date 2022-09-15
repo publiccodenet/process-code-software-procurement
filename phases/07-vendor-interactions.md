@@ -10,7 +10,7 @@ title: Vendor interactions
 
 ![Diagram showing who should read step 7](/../images/assessment-1.svg)
 
-> This step is relevant for organizations:
+> This step is for organizations:
 >
 > * buying off the shelf software
 > * hiring a vendor to customize existing open source software

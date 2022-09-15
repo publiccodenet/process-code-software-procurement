@@ -10,7 +10,7 @@ title: RFP Writing
 
 ![Diagram showing who should read step 5](/../images/planning-2.svg)
 
-> This step is relevant for organizations:
+> This step is for organizations:
 >
 > * buying off the shelf software
 > * hiring a vendor to customize existing open source software

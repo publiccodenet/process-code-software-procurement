@@ -10,7 +10,7 @@ title: Contracting
 
 ![Diagram showing who should read step 9](/../images/assessment-3.svg)
 
-> This step is relevant for organizations:
+> This step is for organizations:
 >
 > * buying off the shelf software
 > * hiring a vendor to customize existing open source software
