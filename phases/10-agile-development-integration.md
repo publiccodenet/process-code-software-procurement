@@ -10,7 +10,8 @@ title: Agile development and integration
 
 ![Diagram showing who should read step 10](/../images/implementation-3.svg)
 
-> Read this if you are building your own software or hired a vendor to customize existing open source software.
+> Read this if you are building software in-house, hired a vendor to build custom software or hired a vendor to customize existing open source software.
+> Skip ahead to step [11. Integration](/11-integration.md) if you bought off the shelf software.
 
 ## Goals
 
