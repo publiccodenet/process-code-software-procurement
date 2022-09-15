@@ -16,7 +16,7 @@ title: Contracting
 > * hiring a vendor to customize existing open source software
 > * buying custom software
 >
-> If you are building your own software, read:
+> If you are building software in-house, read:
 >
 > * [6. Agile development planning and resourcing](06-agile-development-planning-resourcing.md)
 

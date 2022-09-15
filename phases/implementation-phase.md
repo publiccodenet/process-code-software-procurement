@@ -20,7 +20,7 @@ Throughout this process, you also have the crucial responsibility of ensuring th
 
 Your plan should also include regular performance audits, staff training and onboarding protocols, resource allocation for software maintenance, and – if the software is open source – a plan for sharing with other jurisdictions. If you have followed this process code well, there is no reason that you wouldn’t have an excellent product that fills a real need in the public sector. You should be proud of it, and others should find it not only useful, but also inspiring!
 
-> If you are building your own software or hired a vendor to customize existing open source software, read step 10.
+> If you are building software in-house or hired a vendor to customize existing open source software, read step 10.
 
 ![Diagram showing who should read step 10](/../images/implementation-2.svg)
 

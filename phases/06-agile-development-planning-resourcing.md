@@ -8,7 +8,7 @@ title: Agile development planning and resourcing
 
 # 6. {{ page.title }}
 
-> Read this if you are building your own software.
+> Read this if you are building software in-house. For all other procurement approaches, skip ahead to the [assessment phase](/assessment-phase.md).
 
 ![Diagram showing who should read step 6](/../images/planning-4.svg)
 
