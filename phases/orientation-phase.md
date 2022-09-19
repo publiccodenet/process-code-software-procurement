@@ -32,5 +32,3 @@ Phase 1 ends with a choice of strategy. Depending on the approach, you will foll
 2. Contract a vendor to build a custom instance of open source software (OSS)
 3. Contract a vendor to build custom software
 4. Build software (or adapt OSS) in-house
-
-> 
