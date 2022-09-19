@@ -24,11 +24,13 @@ If nothing good exists, the problem statement also helps with estimating the cos
 
 These options should be evaluated in a neutral way, accounting not only for cost, but also for quality, long-term lifecycle costs of ownership and maintenance, and potential unforeseen concerns like vendor lock-in and data ownership.
 
-Phase 1 ends with a choice of strategy. Depending on the approach, you will follow one of four paths...
-
-## Paths
+Phase 1 ends with a choice of strategy. Depending on the approach, you will follow one of four paths:
 
 1. Buy software off the shelf
 2. Contract a vendor to build a custom instance of open source software (OSS)
 3. Contract a vendor to build custom software
 4. Build software (or adapt OSS) in-house
+
+## Read on
+
+> Read all of the orientation phase steps regardless of your procurement approach.

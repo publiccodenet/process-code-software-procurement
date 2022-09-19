@@ -28,4 +28,6 @@ Some elements will be standard and non-negotiable, but a surprising amount of co
 
 This phase concludes with a contract that the vendor, legal staff, and project team agree on. With that agreement in hand, you are ready to start collaborating on software development.
 
+## Read on
+
 ![Diagram showing who should read step 11.5](/../images/implementation-4.svg)
