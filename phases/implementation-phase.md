@@ -22,7 +22,7 @@ Your plan should also include regular performance audits, staff training and onb
 
 ## Read on
 
-> If you are building software in-house, hired a vendor to build custom software or hired a vendor to customize existing open source software, read step [10: Agile Development & Deployment](phases/10-agile-development-integration.md) aand then [step 11: Integration](/11-integration.md).
+> If you are building software in-house, hired a vendor to build custom software or hired a vendor to customize existing open source software, read step [10: Agile Development & Deployment](/10-agile-development-integration.md) and then [step 11: Integration](/11-integration.md).
 
 ![Diagram showing who should read step 10](/../images/implementation-2.svg)
 
