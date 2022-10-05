@@ -2,10 +2,10 @@
 <div>
   <ol style="display: flex; justify-content: space-around; height: 100%; list-style-type:none ;">
       <li style="display: block; height: 100%; padding:20px;"><a href="{{ site.baseurl }}/index.html" >Introduction</a></li>
-      <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'orientation' %} background:lightblue; {% endif %} "><a href="{{ site.baseurl }}/phases/orientation-phase.html" >Orientation</a></li>
-      <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'planning' %} background:lightblue; {% endif %}"><a href="{{ site.baseurl }}/phases/planning-phase.html">Planning</a></li>
-      <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'assessment' %} background:lightblue; {% endif %}"><a href="{{ site.baseurl }}/phases/assessment-phase.html" >Assessment</a></li>
-      <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'implementation' %} background:lightblue; {% endif %}"><a href="{{ site.baseurl }}/phases/implementation-phase.html" >Implementation</a></li>
+      <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'orientation' %} background:#5A57C3; {% endif %} "><a href="{{ site.baseurl }}/phases/orientation-phase.html" style="{% if page.phase == 'orientation' %} color:white; {% endif %}" >Orientation</a></li>
+      <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'planning' %} background:#ED706B; {% endif %}"><a href="{{ site.baseurl }}/phases/planning-phase.html">Planning</a></li>
+      <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'assessment' %} background:#FDF251; {% endif %}"><a href="{{ site.baseurl }}/phases/assessment-phase.html" >Assessment</a></li>
+      <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'implementation' %} background:#76CAEE; {% endif %}"><a href="{{ site.baseurl }}/phases/implementation-phase.html" >Implementation</a></li>
   </ol>
   <span id="span-prev-next" class="theme-prev-next">
 {% assign prev_order = page.order | minus:1 %}
@@ -14,11 +14,23 @@
 {% for otherpage in sorted %}
 {% if otherpage.order == prev_order %}
 <span id="span-prev" class="theme-prev-next-prev"><a
-  href="{{site.baseurl}}{{ otherpage.url }}" >&#8592; {{ otherpage.title }}</a></span>
+  href="{{site.baseurl}}{{ otherpage.url }}" style="padding:5px; {% case otherpage.phase %}
+{% when  'orientation' %} background:#5A57C3; color:white;
+{% when 'planning' %} background:#ED706B;
+{% when 'assessment' %} background:#FDF251;
+{% when 'implementation' %} background:#76CAEE;
+{% else %}
+{% endcase %}"  >&#8592; {{ otherpage.title }}</a></span>
 {% endif %}
 {% if otherpage.order == next_order %}
 <span id="span-next" class="theme-prev-next-next"><a
-  href="{{site.baseurl}}{{ otherpage.url }}" >{{ otherpage.title }} &#8594;</a></span>
+  href="{{site.baseurl}}{{ otherpage.url }}" style="padding:5px; {% case otherpage.phase %}
+{% when  'orientation' %} background:#5A57C3; color:white;
+{% when 'planning' %} background:#ED706B;
+{% when 'assessment' %} background:#FDF251;
+{% when 'implementation' %} background:#76CAEE;
+{% else %}
+{% endcase %}" >{{ otherpage.title }} &#8594;</a></span>
 {% endif %}
 {% endfor %}
 </span>
