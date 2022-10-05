@@ -15,7 +15,7 @@ defaults:
       breadcrumbs:
         - name: 'Phases'
           path: '/phases/'
-      show_prev_next: true
+      show_prev_next: false # We'll use a custom prev-next navigation instead
 
   -
     scope:
