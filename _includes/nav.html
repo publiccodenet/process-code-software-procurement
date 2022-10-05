@@ -1,10 +1,12 @@
 <!-- To-do: move the css to a class in a separate file -->
-<ol style="display: flex; justify-content: space-around; height: 100%; list-style-type:none ;">
-    <li style="display: block; height: 100%; padding:20px;"><a href="{{ site.baseurl }}/index.html" >Introduction</a></li>
-    <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'orientation' %} background:lightblue; {% endif %} "><a href="{{ site.baseurl }}/phases/orientation-phase.html" >Orientation</a></li>
-    <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'planning' %} background:lightblue; {% endif %}"><a href="{{ site.baseurl }}/phases/planning-phase.html">Planning</a></li>
-    <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'assessment' %} background:lightblue; {% endif %}"><a href="{{ site.baseurl }}/phases/assessment-phase.html" >Assessment</a></li>
-    <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'implementation' %} background:lightblue; {% endif %}"><a href="{{ site.baseurl }}/phases/implementation-phase.html" >Implementation</a></li>
+<div>
+  <ol style="display: flex; justify-content: space-around; height: 100%; list-style-type:none ;">
+      <li style="display: block; height: 100%; padding:20px;"><a href="{{ site.baseurl }}/index.html" >Introduction</a></li>
+      <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'orientation' %} background:lightblue; {% endif %} "><a href="{{ site.baseurl }}/phases/orientation-phase.html" >Orientation</a></li>
+      <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'planning' %} background:lightblue; {% endif %}"><a href="{{ site.baseurl }}/phases/planning-phase.html">Planning</a></li>
+      <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'assessment' %} background:lightblue; {% endif %}"><a href="{{ site.baseurl }}/phases/assessment-phase.html" >Assessment</a></li>
+      <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'implementation' %} background:lightblue; {% endif %}"><a href="{{ site.baseurl }}/phases/implementation-phase.html" >Implementation</a></li>
+  </ol>
   <span id="span-prev-next" class="theme-prev-next">
 {% assign prev_order = page.order | minus:1 %}
 {% assign next_order = page.order | plus:1 %}
