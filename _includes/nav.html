@@ -1,8 +1,25 @@
 <!-- To-do: move the css to a class in a separate file -->
-<ol style="display: flex; justify-content: space-around; height: 100%; list-style-type:none ;">
-    <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'orientation' %} background:lightblue; {% endif %} "><a href="{{ site.baseurl }}/phases/orientation-phase.html" >Orientation</a></li>
-    <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'planning' %} background:lightblue; {% endif %}"><a href="{{ site.baseurl }}/phases/planning-phase.html">Planning</a></li>
-    <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'assessment' %} background:lightblue; {% endif %}"><a href="{{ site.baseurl }}/phases/assessment-phase.html" >Assessment</a></li>
-    <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'implementation' %} background:lightblue; {% endif %}"><a href="{{ site.baseurl }}/phases/implementation-phase.html" >Implementation</a></li>
-</ol>
-
+<div>
+  <ol style="display: flex; justify-content: space-around; height: 100%; list-style-type:none ;">
+      <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'orientation' %} background:lightblue; {% endif %} "><a href="{{ site.baseurl }}/phases/orientation-phase.html" >Orientation</a></li>
+      <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'planning' %} background:lightblue; {% endif %}"><a href="{{ site.baseurl }}/phases/planning-phase.html">Planning</a></li>
+      <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'assessment' %} background:lightblue; {% endif %}"><a href="{{ site.baseurl }}/phases/assessment-phase.html" >Assessment</a></li>
+      <li style="display: block; height: 100%; padding:20px; {% if page.phase == 'implementation' %} background:lightblue; {% endif %}"><a href="{{ site.baseurl }}/phases/implementation-phase.html" >Implementation</a></li>
+  </ol>
+  <span id="span-prev-next" class="theme-prev-next">
+{% assign prev_order = page.order | minus:1 %}
+{% assign next_order = page.order | plus:1 %}
+{% assign sorted = site.pages | sort:"order" %}
+{% for otherpage in sorted %}
+{% if otherpage.order == prev_order %}
+<span id="span-prev" class="theme-prev-next-prev"><a
+  href="{{site.baseurl}}{{ otherpage.url }}" >&#8592; {{ otherpage.title }}</a></span>
+{% endif %}
+{% if otherpage.order == next_order %}
+<span id="span-next" class="theme-prev-next-next"><a
+  href="{{site.baseurl}}{{ otherpage.url }}" >{{ otherpage.title }} &#8594;</a></span>
+{% endif %}
+{% endfor %}
+</span>
+</div>
+<div style="clear:both;"></div>
