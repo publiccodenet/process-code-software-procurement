@@ -39,7 +39,7 @@ The product owner should read this whole guide, and be comfortable with each ste
 
 ## Contributing
 
-We welcome [issues](https://github.com/publiccodenet/process-code-software-procurement/issues) and [Pull requests](https://github.com/publiccodenet/process-code-software-procurement/pulls).
+We welcome [issues](https://github.com/publiccodenet/process-code-software-procurement/issues) and [pull requests](https://github.com/publiccodenet/process-code-software-procurement/pulls). Read more about [how to contribute](CONTRIBUTING.md).
 
 We use [Markdown](https://docs.github.com/en/get-started/writing-on-github) and [Jekyll](https://github.com/jekyll/jekyll) for the site.
 
