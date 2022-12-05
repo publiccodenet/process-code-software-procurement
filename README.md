@@ -1,4 +1,4 @@
-# Welcome
+# Process code for software procurement
 
 *This process code introduces a digital-native approach to procurement, while maintaining the integrity of a legitimate, fair, transparent and objective process.
 It is important because it empowers public sector employees to be in control of how their digital tools are designed, purchased and used.*
