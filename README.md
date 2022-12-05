@@ -3,6 +3,10 @@
 *This process code introduces a digital-native approach to procurement, while maintaining the integrity of a legitimate, fair, transparent and objective process.
 It is important because it empowers public sector employees to be in control of how their digital tools are designed, purchased and used.*
 
+[![pages-build-deployment](https://github.com/publiccodenet/process-code-software-procurement/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/process-code-software-procurement/actions/workflows/pages/pages-build-deployment)
+[![Test](https://github.com/publiccodenet/process-code-software-procurement/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/process-code-software-procurement/actions/workflows/test.yml)
+[![Scheduled link check](https://github.com/publiccodenet/process-code-software-procurement/actions/workflows/link-check.yml/badge.svg)](https://github.com/publiccodenet/process-code-software-procurement/actions/workflows/link-check.yml)
+
 ## Introduction
 
 This document is a guide for procuring existing software, building software in-house, or working with a vendor on custom software.
