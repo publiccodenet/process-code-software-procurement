@@ -25,6 +25,7 @@ bundle exec jekyll build
 # * plausible.io/js/plausible.js : does not serve to scripts
 # * belastingdienst.nl : regularly cries wolf with request timed out
 # * www.bidnet.com : regularly cries wolf with request timed out
+# * web.archive.org : sometimes too slow and fails from link check
 URL_IGNORE_REGEXES="\
 /github\.com\/.*\/edit\//\
 ,/docs\.github\.com\/en\//\
@@ -32,6 +33,7 @@ URL_IGNORE_REGEXES="\
 ,/code\.gov\/agency-compliance\/compliance\/procurement/\
 ,/belastingdienst\.nl\/wps\/wcm\/connect\/bldcontenten\/belastingdienst\//\
 ,/www\.bidnet\.com\//\
+,/www\.archive\.org\//\
 "
 
 # Check for broken links and missing alt tags:
